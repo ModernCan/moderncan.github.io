@@ -14,13 +14,3 @@
 <img style='vertical-align:middle;' src="/images/io_1.png" >
 
 
-
-
-
-<!-->
----
-
-### Resources
-
----
--->
