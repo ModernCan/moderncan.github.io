@@ -13,7 +13,7 @@ Hi there 👋. I am a *Senior Data Scientist* with extensive expertise in design
 ## 🏭 DaaS/Products
 
 - [Inspection Optimizer](/pages/inspection_optimizer.md)
-  - Advanced statistical analysis to optimize field inspections for water service lines across +20 water utilities.
+  - Advanced statistical analysis to optimize field inspections for water service lines across 20+ water utilities.
 - [LeadCAST Predict](/pages/leadcast_predict.md)
   - End-to-end machine learning solution to predict water service lines' materials according to Lead and Copper Rule Revisions (LCRR).
 - [Water Main Failure](/pages/water_main_failure.md)
