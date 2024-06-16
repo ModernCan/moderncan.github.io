@@ -2,7 +2,6 @@
 
 Hi there 👋. I am a *Senior Data Scientist* with extensive expertise in designing and implementing advanced machine learning solutions, driving over \$60M in cost savings. Currently, I am leading multifunctional teams, fostering innovation and mentoring emerging data scientists, and collaborating closely with stakeholders achieve strategic objectives.
 
-
 - [Shervin's Portfolio](#shervins-portfolio)
   - [🏭 DaaS/Products](#-daasproducts)
   - [🤝 Mentorships](#-mentorships)
