@@ -8,15 +8,22 @@ Hi there 👋. I am a *Senior Data Scientist* with extensive expertise in design
       - [LeadCAST Predict](#leadcast-predict)
       - [Water Main Failure](#water-main-failure)
       - [Pipe Blockage Detection](#pipe-blockage-detection) -->
-- [🤝 Mentorships](#-mentorships)
-- [📗 Selected Publications](#-selected-publications)
+- [Shervin's Portfolio](#shervins-portfolio)
+  - [🏭 DaaS/Products](#-daasproducts)
+  - [🤝 Mentorships](#-mentorships)
+  - [📗 Selected Publications](#-selected-publications)
 <!-- - [💡 Blogposts/Talks](#-blogpoststalks) -->
 
 ---
 
 ## 🏭 DaaS/Products
 
-
+- [Inspection Optimizer](/pages/inspection_optimizer.md)
+  - Advanced statistical analysis to optimize field inspections for water service lines across +20 water utilities.
+- [LeadCAST Predict](/pages/leadcast_predict.md)
+- [Water Main Failure](/pages/water_main_failure.md)
+- [Pipe Blockage Detection](/pages/blockage_detection.md)
+<!--
 <div style="display: flex; justify-content: space-between;">
 
 <div style="flex: 1; margin-right: 10px;">
@@ -56,6 +63,7 @@ End-to-end machine learning solution for detecting water blockage in sewer syste
 </div>
 
 </div>
+-->
 
 ---
 
@@ -63,8 +71,8 @@ End-to-end machine learning solution for detecting water blockage in sewer syste
 
 
 * [Milad Omrani, MSc](https://www.linkedin.com/in/miladomrani1987/) AI Engineer
-* [Adham El Fawal, MSc](https://www.linkedin.com/in/adhamelfawal/) Computer \& Data Scientist
-* [Mohammad Mahdavi, PhD](https://www.linkedin.com/in/mohammadmahdavi/) Geotechnical Engineer \& Data Scientist
+* [Adham El Fawal, MSc](https://www.linkedin.com/in/adhamelfawal/) Computer & Data Scientist
+* [Mohammad Mahdavi, PhD](https://www.linkedin.com/in/mohammadmahdavi/) Geotechnical Engineer & Data Scientist
 
 ---
 
