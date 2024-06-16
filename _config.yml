@@ -4,7 +4,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br><br>
   <h2>Shervin Khazaeli</h2>
   Ph.D. | Civil Engineering<br>
-  &nbsp;&nbsp;&nbsp;| Artifitial Intelligence
+  <span style="margin-left: 15px;"></span>| Artifitial Intelligence
   <br><br>
   <b>Applications:</b> smart monitoring; decision making; AI governance
   <br><br>
