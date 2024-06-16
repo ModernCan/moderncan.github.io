@@ -67,10 +67,10 @@ End-to-end machine learning solution for detecting water blockage in sewer syste
 
 ## 🤝 Mentorships
 
+* [Mohammad Mahdavi, PhD](https://www.linkedin.com/in/mohammadmahdavi/) Geotechnical Engineer & Data Scientist <span style="color: grey;">[2024-]</span>
+* [Milad Omrani, MSc](https://www.linkedin.com/in/miladomrani1987/) AI Engineer <span style="color: grey;">[2023-]</span>
+* [Adham El Fawal, MSc](https://www.linkedin.com/in/adhamelfawal/) Computer & Data Scientist <span style="color: grey;">[2022-]</span>
 
-* [Milad Omrani, MSc](https://www.linkedin.com/in/miladomrani1987/) AI Engineer
-* [Adham El Fawal, MSc](https://www.linkedin.com/in/adhamelfawal/) Computer & Data Scientist
-* [Mohammad Mahdavi, PhD](https://www.linkedin.com/in/mohammadmahdavi/) Geotechnical Engineer & Data Scientist
 
 ---
 
