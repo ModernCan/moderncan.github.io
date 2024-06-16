@@ -2,12 +2,7 @@
 
 Hi there 👋. I am a *Senior Data Scientist* with extensive expertise in designing and implementing advanced machine learning solutions, driving over \$60M in cost savings. Currently, I am leading multifunctional teams, fostering innovation and mentoring emerging data scientists, and collaborating closely with stakeholders achieve strategic objectives.
 
-<!--- [Shervin's Portfolio](#shervins-portfolio) -->
-- [🏭 DaaS/Products](#-daasproducts)
-<!--      - [Inspection Optimizer](#inspection-optimizer)
-      - [LeadCAST Predict](#leadcast-predict)
-      - [Water Main Failure](#water-main-failure)
-      - [Pipe Blockage Detection](#pipe-blockage-detection) -->
+
 - [Shervin's Portfolio](#shervins-portfolio)
   - [🏭 DaaS/Products](#-daasproducts)
   - [🤝 Mentorships](#-mentorships)
@@ -21,8 +16,12 @@ Hi there 👋. I am a *Senior Data Scientist* with extensive expertise in design
 - [Inspection Optimizer](/pages/inspection_optimizer.md)
   - Advanced statistical analysis to optimize field inspections for water service lines across +20 water utilities.
 - [LeadCAST Predict](/pages/leadcast_predict.md)
+  - End-to-end machine learning solution to predict water service lines' materials according to Lead and Copper Rule Revisions (LCRR).
 - [Water Main Failure](/pages/water_main_failure.md)
+  - End-to-end machine learning solution for Pipe-break prediciton in water service lines network.
 - [Pipe Blockage Detection](/pages/blockage_detection.md)
+  - End-to-end machine learning solution for detecting water blockage in sewer systems.
+
 <!--
 <div style="display: flex; justify-content: space-between;">
 
@@ -38,7 +37,7 @@ Advanced statistical analysis to optimize field inspections for water service li
 <div style="flex: 1; margin-left: 10px;">
 
 ##### [LeadCAST Predict](/pages/leadcast_predict.md)
-End-to-end machine learning solution to predict water service lines' materials according to Lead and Copper Rule Revisions (LCRR)
+End-to-end machine learning solution to predict water service lines' materials according to Lead and Copper Rule Revisions (LCRR).
 
 [more](/pages/leadcast_predict.md)
 </div>
@@ -50,7 +49,7 @@ End-to-end machine learning solution to predict water service lines' materials a
 <div style="flex: 1; margin-right: 10px;">
 
 ##### [Water Main Failure](/pages/water_main_failure.md)
-End-to-end machine learning solution for Pipe-break prediciton in
+End-to-end machine learning solution for Pipe-break prediciton in water service lines network.
 [more](/pages/water_main_failure.md)
 </div>
 
