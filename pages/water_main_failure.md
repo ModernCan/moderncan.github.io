@@ -6,8 +6,6 @@
 
 
 
-**Development Tools:** Poetry, MongoDB, VertexAI, kubernetes, BigQuery, and other Google Cloud Platform (GCP) services.
-
 [DaaS Link](https://www.trinnex.io/custom-solutions/data-science-as-a-service)
 
 

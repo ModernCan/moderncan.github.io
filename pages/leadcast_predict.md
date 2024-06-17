@@ -6,8 +6,6 @@
 
 
 
-**Development Tools:** Poetry, MongoDB, VertexAI, kubernetes, BigQuery, and other Google Cloud Platform (GCP) services.
-
 [Product Link](https://www.trinnex.io/products/leadcast/leadcast-predict)
 
 

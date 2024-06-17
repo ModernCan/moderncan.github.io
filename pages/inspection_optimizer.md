@@ -6,8 +6,6 @@
 
 
 
-**Development Tools:** Poetry, MongoDB, kubernetes, and other Google Cloud Platform (GCP).
-
 [Product Link](https://www.trinnex.io/products/leadcast/inspection-optimizer)
 
 

@@ -82,7 +82,7 @@ End-to-end machine learning solution for detecting water blockage in sewer syste
 
 
 > **Anomaly detection using state-space models and reinforcement learning.**\
-> Structural Control \& Health Monitoring, Wiley & Sons, 2021
+> Structural Control & Health Monitoring, Wiley & Sons, 2021
 
 > **OpenBDLM: an open-source software for structural health monitoring using Bayesian dynamic linear models.**\
 > ICASPCE, South Korea, 2019
