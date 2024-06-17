@@ -18,7 +18,7 @@ Hi there 👋. I am a *Senior Data Scientist* with extensive expertise in design
   - End-to-end machine learning solution to predict water service lines' materials across 40+ water utilities.
 - [Water Main Failure](/pages/water_main_failure.md)
   - End-to-end machine learning solution for Pipe-break prediciton in water service lines network.
-- [Pipe Blockage Detection](/pages/blockage_detection.md)
+- [Blockage Detection](/pages/blockage_detection.md)
   - End-to-end machine learning solution for detecting water blockage in sewer systems.
 
 <!--
