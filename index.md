@@ -3,14 +3,14 @@
 Hi there 👋. I am a *Senior Data Scientist* with extensive expertise in designing and implementing advanced machine learning solutions, driving over \$60M in cost savings. Currently, I am leading cross-functional teams, fostering innovation, mentoring emerging data scientists, and collaborating closely with stakeholders to achieve strategic objectives.
 
 - [Shervin's Portfolio](#shervins-portfolio)
-  - [🏭 DaaS/Products](#-daasproducts)
+  - [🏭 DSaaS/Products](#-dsaasproducts)
   - [🤝 Mentorships](#-mentorships)
   - [📗 Selected Publications](#-selected-publications)
 <!-- - [💡 Blogposts/Talks](#-blogpoststalks) -->
 
 ---
 
-## 🏭 DaaS/Products
+## 🏭 DSaaS/Products
 
 - [Inspection Optimizer [more]](/pages/inspection_optimizer.md)
   - Advanced statistical analysis to optimize field inspections for water service lines across 20+ water utilities.
