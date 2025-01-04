@@ -13,11 +13,11 @@ Hi there 👋. I am a *Senior Data Scientist* with extensive expertise in design
 ## 🏭 DSaaS/Products
 
 - [Inspection Optimizer [more]](/pages/inspection_optimizer.md)
-  - Advanced statistical analysis to optimize field inspections for water service lines across 20+ water utilities.
+  - Advanced statistical analysis to optimize field inspections for +60 water utilities across USA.
 - [LeadCAST Predict [more]](/pages/leadcast_predict.md)
-  - End-to-end machine learning solution to predict water service lines' materials across 40+ water utilities.
+  - End-to-end machine learning solution to predict water service lines' materials across 45+ water utilities.
 - [Water Main Failure [more]](/pages/water_main_failure.md)
-  - End-to-end machine learning solution for Pipe-break prediciton in water service lines network.
+  - End-to-end machine learning solution for pipe-break prediciton in water service lines network.
 - [Blockage Detection [more]](/pages/blockage_detection.md)
   - End-to-end machine learning solution for detecting water blockage in sewer systems.
 
