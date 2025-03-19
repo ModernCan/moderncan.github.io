@@ -1,6 +1,6 @@
 # [Shervin's Portfolio](https://moderncan.github.io)
 
-Hi there 👋. I am a *Senior Data Scientist* with extensive expertise in designing and implementing advanced machine learning solutions, driving over \$60M in cost savings. Currently, I am leading cross-functional teams, fostering innovation, mentoring emerging data scientists, and collaborating closely with stakeholders to achieve strategic objectives.
+Hi there 👋. I am a *Lead Data Scientist* with extensive expertise in designing and implementing advanced machine learning solutions, driving over \$60M in cost savings. Currently, I am leading cross-functional teams, fostering innovation, mentoring emerging data scientists, and collaborating closely with stakeholders to achieve strategic objectives.
 
 - [Shervin's Portfolio](#shervins-portfolio)
   - [🏭 DSaaS/Products](#-dsaasproducts)
@@ -16,10 +16,14 @@ Hi there 👋. I am a *Senior Data Scientist* with extensive expertise in design
   - Advanced statistical analysis to optimize field inspections for +60 water utilities across USA.
 - [LeadCAST Predict [more]](/pages/leadcast_predict.md)
   - End-to-end machine learning solution to predict water service lines' materials across 45+ water utilities.
+- [LeadCAST Service Line Replacement [more]](/pages/leadcast_predict.md)
+  - End-to-end machine learning solution to optimize lead service line replacement program.
 - [Water Main Failure [more]](/pages/water_main_failure.md)
   - End-to-end machine learning solution for pipe-break prediciton in water service lines network.
 - [Blockage Detection [more]](/pages/blockage_detection.md)
   - End-to-end machine learning solution for detecting water blockage in sewer systems.
+- [Water Pipe Replacement Optimization [more]](/pages/blockage_detection.md)
+  - End-to-end machine learning solution for water pipe replacement.
 
 <!--
 <div style="display: flex; justify-content: space-between;">
@@ -66,10 +70,11 @@ End-to-end machine learning solution for detecting water blockage in sewer syste
 ---
 
 ## 🤝 Mentorships
-* [Michaela Palmer, MSc](https://www.linkedin.com/in/palmermichaela/) Data Scientist <span style="color: grey;">[2024-]</span>
-* [Mohammad Mahdavi, PhD](https://www.linkedin.com/in/mohammadmahdavi/) Geotechnical Engineer & Data Scientist <span style="color: grey;">[2024-]</span>
-* [Milad Omrani, MSc](https://www.linkedin.com/in/miladomrani1987/) AI Engineer <span style="color: grey;">[2023-]</span>
+* [Noah A. Foilb, MSc](https://www.linkedin.com/in/noah-foilb/) Computer & Data Scientist <span style="color: grey;">[2024-]</span>
+* [Milad Omrani, MSc](https://www.linkedin.com/in/miladomrani1987/) Senior Data Scientist <span style="color: grey;">[2023-]</span>
 * [Adham El Fawal, MSc](https://www.linkedin.com/in/adhamelfawal/) Computer & Data Scientist <span style="color: grey;">[2022-]</span>
+* [Michaela Palmer, MSc](https://www.linkedin.com/in/palmermichaela/) Data Scientist <span style="color: grey;">[2024-25]</span>
+* [Mohammad Mahdavi, PhD](https://www.linkedin.com/in/mohammadmahdavi/) Geotechnical Engineer & Data Scientist <span style="color: grey;">[2024-25]</span>
 
 
 ---
