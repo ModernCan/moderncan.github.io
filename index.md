@@ -1,6 +1,6 @@
 # [Shervin's Portfolio](https://moderncan.github.io)
 
-Hi there 👋. I am a *Principal/Lead Data Scientist* with extensive expertise in designing and implementing advanced machine learning solutions, driving over \$60M in cost savings. Currently, I am leading cross-functional teams, fostering innovation, mentoring emerging data scientists, and collaborating closely with stakeholders to achieve strategic objectives.
+Hi there 👋. I am a *Lead Data Scientist* with extensive expertise in designing and implementing advanced machine learning solutions, driving over \$60M in cost savings. Currently, I am leading cross-functional teams, fostering innovation, mentoring emerging data scientists, and collaborating closely with stakeholders to achieve strategic objectives.
 
 - [Shervin's Portfolio](#shervins-portfolio)
   - [🏭 DSaaS/Products](#-dsaasproducts)
