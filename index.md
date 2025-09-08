@@ -1,6 +1,6 @@
 # [Shervin's Portfolio](https://moderncan.github.io)
 
-Hi there 👋. I am a *Lead Data Scientist, Principal* with more than a decade of experience designing and deploying advanced machine learning solutions across civil infrastructure, utilities, and enterprise systems. Proven track record in leading cross-functional teams, mentoring data scientists and engineers, and aligning complex AI projects with organizational strategy. Skilled communicator who bridges technical and business stakeholders to deliver transparent, explainable, and high-impact AI solutions. Actively advancing AI governance expertise (AIGP, PMP, Google Project Management) to ensure accountability and responsible adoption of AI.
+Hi there 👋. I am a *Lead Data Scientist, Principal* with 10+ years of experience delivering machine learning solutions in civil infrastructure and utilities. Proven record in leading cross-functional teams, mentoring talent, and aligning AI projects with organizational strategy. Skilled at bridging technical and business stakeholders to deliver transparent, explainable, and high-impact AI. Actively advancing AI governance expertise (AIGP, PMP, Google Project Management) to ensure accountability and responsible adoption of AI.
 
 - [Shervin's Portfolio](#shervins-portfolio)
   - [🏭 DSaaS/Products](#-dsaasproducts)
