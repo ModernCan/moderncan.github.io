@@ -15,8 +15,6 @@
   </div>
 </div>
 
-**Core Capabilities:** Enterprise AI Strategy • MLOps & Production Systems • AI Governance (AIGP) • Technical Leadership
-
 ---
 
 ## Core Competencies
