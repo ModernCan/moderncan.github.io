@@ -1,6 +1,7 @@
 # Claude Code files
 .claude
 CLAUDE.md
+llm_dev/
 
 # macOS
 .DS_Store
