@@ -19,22 +19,7 @@
 
 <div class="competency-cards">
 
-  <!-- Card 1: AI Governance & Risk Management -->
-  <div style="border: 1px solid #ddd; border-left: 4px solid #4A90E2; border-radius: 8px; padding: 24px; background: #fff; box-shadow: 0 2px 4px rgba(0,0,0,0.08); transition: transform 0.3s ease, box-shadow 0.3s ease;">
-    <h3 style="margin-top: 0; color: #4A90E2; font-size: 18px; display: flex; align-items: center; gap: 10px;">
-      🛡️ AI Governance & Risk Management
-    </h3>
-    <ul style="font-size: 14px; line-height: 1.6; color: #333; margin: 15px 0; padding-left: 20px;">
-      <li>AIGP-certified governance frameworks</li>
-      <li>Enterprise controls & regulatory compliance</li>
-      <li>Traceability, auditability, validation gates</li>
-    </ul>
-    <a href="#ai-governance" style="font-size: 13px; color: #4A90E2; text-decoration: none; border-bottom: 1px solid transparent; transition: border-bottom 0.2s; margin-top: 15px; display: inline-block;">
-      Learn more ↓
-    </a>
-  </div>
-
-  <!-- Card 2: Enterprise ML Platform & MLOps -->
+  <!-- Card 1: Enterprise ML Platform & MLOps -->
   <div style="border: 1px solid #ddd; border-left: 4px solid #E24A4A; border-radius: 8px; padding: 24px; background: #fff; box-shadow: 0 2px 4px rgba(0,0,0,0.08); transition: transform 0.3s ease, box-shadow 0.3s ease;">
     <h3 style="margin-top: 0; color: #E24A4A; font-size: 18px; display: flex; align-items: center; gap: 10px;">
       ⚙️ Enterprise ML Platform & MLOps
@@ -49,22 +34,7 @@
     </a>
   </div>
 
-  <!-- Card 3: Agentic AI & Technical Innovation -->
-  <div style="border: 1px solid #ddd; border-left: 4px solid #50C878; border-radius: 8px; padding: 24px; background: #fff; box-shadow: 0 2px 4px rgba(0,0,0,0.08); transition: transform 0.3s ease, box-shadow 0.3s ease;">
-    <h3 style="margin-top: 0; color: #50C878; font-size: 18px; display: flex; align-items: center; gap: 10px;">
-      🚀 Agentic AI & Technical Innovation
-    </h3>
-    <ul style="font-size: 14px; line-height: 1.6; color: #333; margin: 15px 0; padding-left: 20px;">
-      <li>Multi-agent systems using Google Agent Development Kit</li>
-      <li>SEAL 6 collaborative methodology</li>
-      <li>Novel validation frameworks (tri-agent dialectic)</li>
-    </ul>
-    <a href="#agentic-ai" style="font-size: 13px; color: #50C878; text-decoration: none; border-bottom: 1px solid transparent; transition: border-bottom 0.2s; margin-top: 15px; display: inline-block;">
-      Learn more ↓
-    </a>
-  </div>
-
-  <!-- Card 4: Cross-Functional Technical Leadership -->
+  <!-- Card 2: Cross-Functional Technical Leadership -->
   <div style="border: 1px solid #ddd; border-left: 4px solid #F39C12; border-radius: 8px; padding: 24px; background: #fff; box-shadow: 0 2px 4px rgba(0,0,0,0.08); transition: transform 0.3s ease, box-shadow 0.3s ease;">
     <h3 style="margin-top: 0; color: #F39C12; font-size: 18px; display: flex; align-items: center; gap: 10px;">
       👥 Cross-Functional Technical Leadership
@@ -75,6 +45,36 @@
       <li>Research-to-production methodology</li>
     </ul>
     <a href="#leadership" style="font-size: 13px; color: #F39C12; text-decoration: none; border-bottom: 1px solid transparent; transition: border-bottom 0.2s; margin-top: 15px; display: inline-block;">
+      Learn more ↓
+    </a>
+  </div>
+
+  <!-- Card 3: AI Governance & Risk Management -->
+  <div style="border: 1px solid #ddd; border-left: 4px solid #4A90E2; border-radius: 8px; padding: 24px; background: #fff; box-shadow: 0 2px 4px rgba(0,0,0,0.08); transition: transform 0.3s ease, box-shadow 0.3s ease;">
+    <h3 style="margin-top: 0; color: #4A90E2; font-size: 18px; display: flex; align-items: center; gap: 10px;">
+      🛡️ AI Governance & Risk Management
+    </h3>
+    <ul style="font-size: 14px; line-height: 1.6; color: #333; margin: 15px 0; padding-left: 20px;">
+      <li>AIGP-certified governance frameworks</li>
+      <li>Enterprise controls & regulatory compliance</li>
+      <li>Traceability, auditability, validation gates</li>
+    </ul>
+    <a href="#ai-governance" style="font-size: 13px; color: #4A90E2; text-decoration: none; border-bottom: 1px solid transparent; transition: border-bottom 0.2s; margin-top: 15px; display: inline-block;">
+      Learn more ↓
+    </a>
+  </div>
+
+  <!-- Card 4: Agentic AI & Technical Innovation -->
+  <div style="border: 1px solid #ddd; border-left: 4px solid #50C878; border-radius: 8px; padding: 24px; background: #fff; box-shadow: 0 2px 4px rgba(0,0,0,0.08); transition: transform 0.3s ease, box-shadow 0.3s ease;">
+    <h3 style="margin-top: 0; color: #50C878; font-size: 18px; display: flex; align-items: center; gap: 10px;">
+      🚀 Agentic AI & Technical Innovation
+    </h3>
+    <ul style="font-size: 14px; line-height: 1.6; color: #333; margin: 15px 0; padding-left: 20px;">
+      <li>Multi-agent systems using Google Agent Development Kit</li>
+      <li>SEAL 6 collaborative methodology</li>
+      <li>Novel validation frameworks (tri-agent dialectic)</li>
+    </ul>
+    <a href="#agentic-ai" style="font-size: 13px; color: #50C878; text-decoration: none; border-bottom: 1px solid transparent; transition: border-bottom 0.2s; margin-top: 15px; display: inline-block;">
       Learn more ↓
     </a>
   </div>
@@ -116,26 +116,6 @@
 
 ---
 
-<div id="ai-governance"></div>
-
-## 🛡️ AI Governance & Risk Management
-
-Pioneered enterprise AI governance framework integrating traceability, validation gates, auditability, and incident response directly into the ML lifecycle. Established AIGP-certified approach to build governance controls from scratch for critical infrastructure applications.
-
-**Key Capabilities:**
-- **AIGP Framework Implementation** - Built enterprise-grade governance controls adapted from industry frameworks to support accountability, risk management, and competitive differentiation
-- **Enterprise Governance Controls** - Established foundation for regulated industry expansion through comprehensive traceability and auditability systems
-- **Validation Gates & Quality Assurance** - Integrated validation checkpoints throughout the ML development lifecycle ensuring model quality and compliance
-- **Regulatory Compliance** - Designed governance systems specifically for critical infrastructure and utilities sector requirements
-
-**Impact & Proof Points:**
-- 📊 Serving **65+ regulated clients** across critical infrastructure
-- 🎓 **AIGP Certified** (Artificial Intelligence Governance Professional) - [Credential](https://www.credly.com/org/international-association-of-privacy-professionals-iapp/badge/artificial-intelligence-governance-professional-aigp)
-- 🏆 Foundation for competitive differentiation and client trust
-- ⚖️ Established enterprise risk management protocols for AI systems at scale
-
----
-
 <div id="ml-platform"></div>
 
 ## ⚙️ Enterprise ML Platform & MLOps
@@ -170,32 +150,6 @@ Architected and scaled enterprise ML platform serving 65+ critical infrastructur
 
 ---
 
-<div id="agentic-ai"></div>
-
-## 🚀 Agentic AI & Technical Innovation
-
-Driving AI product innovation through production multi-agent systems using Google Agent Development Kit. Pioneered novel methodologies including competitive intelligence orchestration and tri-agent dialectic framework for ML feature validation, increasing developer confidence and automating edge case detection.
-
-**Innovation Initiatives:**
-- **Multi-Agent Systems (Google ADK)** - Production deployment of multi-agent orchestration for automated market analysis and competitive intelligence
-- **Tri-Agent Dialectic Framework** - Novel prosecutor-defender-adjudicator system for ML feature validation and data leakage prevention
-- **SEAL 6 Collaborative Methodology** - Created knowledge-sharing platform and collaborative framework to accelerate team capabilities
-- **AI-Assisted Development** - Integrated AI agents into development workflow, reducing review cycles and improving code quality
-
-**Impact & Proof Points:**
-- 🤖 **Production multi-agent systems deployed** and actively serving clients
-- 🔍 Novel validation approaches **reducing review cycles** and increasing confidence
-- 🎯 Automated **edge case detection** preventing data leakage and model errors
-- 📊 Shaping **product roadmap** for next-generation agentic AI applications
-
-**Featured Innovations:**
-- **Competitive Intelligence System** - Multi-agent orchestration for automated market monitoring and analysis
-- **ML Feature Validation Framework** - Tri-agent dialectic approach for rigorous feature engineering review
-- **Data Leakage Prevention** - Agent-based system for detecting potential data leakage in ML pipelines
-- **SEAL 6 Knowledge Platform** - Collaborative methodology platform for team learning and capability development
-
----
-
 <div id="leadership"></div>
 
 ## 👥 Cross-Functional Technical Leadership
@@ -225,6 +179,52 @@ Led technical team of 4+ data scientists and orchestrated cross-functional initi
 - **[Michaela Palmer, MSc](https://www.linkedin.com/in/palmermichaela/)** - Data Scientist <span style="color: grey;">[2024-25]</span>
 
 - **[Mohammad Mahdavi, PhD](https://www.linkedin.com/in/mohammadmahdavi/)** - Geotechnical Engineer & Data Scientist <span style="color: grey;">[2024-25]</span>
+
+---
+
+<div id="ai-governance"></div>
+
+## 🛡️ AI Governance & Risk Management
+
+Pioneered enterprise AI governance framework integrating traceability, validation gates, auditability, and incident response directly into the ML lifecycle. Established AIGP-certified approach to build governance controls from scratch for critical infrastructure applications.
+
+**Key Capabilities:**
+- **AIGP Framework Implementation** - Built enterprise-grade governance controls adapted from industry frameworks to support accountability, risk management, and competitive differentiation
+- **Enterprise Governance Controls** - Established foundation for regulated industry expansion through comprehensive traceability and auditability systems
+- **Validation Gates & Quality Assurance** - Integrated validation checkpoints throughout the ML development lifecycle ensuring model quality and compliance
+- **Regulatory Compliance** - Designed governance systems specifically for critical infrastructure and utilities sector requirements
+
+**Impact & Proof Points:**
+- 📊 Serving **65+ regulated clients** across critical infrastructure
+- 🎓 **AIGP Certified** (Artificial Intelligence Governance Professional) - [Credential](https://www.credly.com/org/international-association-of-privacy-professionals-iapp/badge/artificial-intelligence-governance-professional-aigp)
+- 🏆 Foundation for competitive differentiation and client trust
+- ⚖️ Established enterprise risk management protocols for AI systems at scale
+
+---
+
+<div id="agentic-ai"></div>
+
+## 🚀 Agentic AI & Technical Innovation
+
+Driving AI product innovation through production multi-agent systems using Google Agent Development Kit. Pioneered novel methodologies including competitive intelligence orchestration and tri-agent dialectic framework for ML feature validation, increasing developer confidence and automating edge case detection.
+
+**Innovation Initiatives:**
+- **Multi-Agent Systems (Google ADK)** - Production deployment of multi-agent orchestration for automated market analysis and competitive intelligence
+- **Tri-Agent Dialectic Framework** - Novel prosecutor-defender-adjudicator system for ML feature validation and data leakage prevention
+- **SEAL 6 Collaborative Methodology** - Created knowledge-sharing platform and collaborative framework to accelerate team capabilities
+- **AI-Assisted Development** - Integrated AI agents into development workflow, reducing review cycles and improving code quality
+
+**Impact & Proof Points:**
+- 🤖 **Production multi-agent systems deployed** and actively serving clients
+- 🔍 Novel validation approaches **reducing review cycles** and increasing confidence
+- 🎯 Automated **edge case detection** preventing data leakage and model errors
+- 📊 Shaping **product roadmap** for next-generation agentic AI applications
+
+**Featured Innovations:**
+- **Competitive Intelligence System** - Multi-agent orchestration for automated market monitoring and analysis
+- **ML Feature Validation Framework** - Tri-agent dialectic approach for rigorous feature engineering review
+- **Data Leakage Prevention** - Agent-based system for detecting potential data leakage in ML pipelines
+- **SEAL 6 Knowledge Platform** - Collaborative methodology platform for team learning and capability development
 
 ---
 
