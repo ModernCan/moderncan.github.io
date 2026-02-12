@@ -1,8 +1,21 @@
 # [Shervin's Portfolio](https://moderncan.github.io)
 
-Principal AI leader architecting production ML systems for critical infrastructure. Led teams delivering $60M+ in cost savings across 65+ enterprise clients through scalable AI platforms and governance frameworks.
+<div style="display: flex; align-items: center; gap: 40px; margin: 30px 0; flex-wrap: wrap;">
+  <div style="flex: 1; min-width: 280px;">
+    <p style="font-size: 16px; line-height: 1.6; margin-bottom: 20px;">
+      Principal AI leader architecting production ML systems for critical infrastructure. Led teams delivering $60M+ in cost savings across 65+ enterprise clients through scalable AI platforms and governance frameworks.
+    </p>
+    <p style="font-size: 14.5px; color: #555; font-style: italic; line-height: 1.5;">
+      Building scalable, governed AI systems that drive measurable impact
+    </p>
+  </div>
 
-**Focus:** Enterprise AI Strategy • MLOps & Production Systems • AI Governance (AIGP) • Team Leadership
+  <div style="flex: 1; min-width: 280px; text-align: center;">
+    <img src="/images/venn_diagram.svg" alt="Core Competencies Venn Diagram" style="max-width: 320px; width: 100%; height: auto;">
+  </div>
+</div>
+
+**Core Capabilities:** Enterprise AI Strategy • MLOps & Production Systems • AI Governance (AIGP) • Technical Leadership
 
 - [Shervin's Portfolio](#shervins-portfolio)
   - [🏭 DSaaS/Products](#-dsaasproducts)
