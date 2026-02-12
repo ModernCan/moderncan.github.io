@@ -21,7 +21,7 @@
 
 ## Core Competencies
 
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap: 25px; margin: 40px 0;">
+<div class="competency-cards">
 
   <!-- Card 1: AI Governance & Risk Management -->
   <div style="border: 1px solid #ddd; border-left: 4px solid #4A90E2; border-radius: 8px; padding: 24px; background: #fff; box-shadow: 0 2px 4px rgba(0,0,0,0.08); transition: transform 0.3s ease, box-shadow 0.3s ease;">
@@ -98,6 +98,21 @@
 </div>
 
 <style>
+  /* Competency cards grid */
+  .competency-cards {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 25px;
+    margin: 40px 0;
+  }
+
+  /* Desktop: 2x2 grid */
+  @media (min-width: 600px) {
+    .competency-cards {
+      grid-template-columns: repeat(2, 1fr);
+    }
+  }
+
   /* Hover effects for cards */
   div[style*="border-left: 4px solid"]:hover {
     transform: translateY(-2px);
