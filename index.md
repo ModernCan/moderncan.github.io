@@ -17,8 +17,6 @@
 
 ---
 
-## Core Competencies
-
 <div class="competency-cards">
 
   <!-- Card 1: AI Governance & Risk Management -->
@@ -131,11 +129,11 @@
 ---
 
 - [Shervin's Portfolio](#shervins-portfolio)
-  - [AI Governance & Risk Management](#ai-governance)
-  - [Enterprise ML Platform & MLOps](#ml-platform)
-  - [Agentic AI & Technical Innovation](#agentic-ai)
-  - [Cross-Functional Technical Leadership](#leadership)
-  - [📗 Selected Publications](#-selected-publications)
+  - [🛡️ AI Governance \& Risk Management](#️-ai-governance--risk-management)
+  - [⚙️ Enterprise ML Platform \& MLOps](#️-enterprise-ml-platform--mlops)
+  - [🚀 Agentic AI \& Technical Innovation](#-agentic-ai--technical-innovation)
+  - [👥 Cross-Functional Technical Leadership](#-cross-functional-technical-leadership)
+  - [📗 Selected Publications \& Thought Leadership](#-selected-publications--thought-leadership)
 
 ---
 
