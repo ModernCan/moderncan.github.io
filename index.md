@@ -18,13 +18,13 @@ Principal AI leader architecting production ML systems for critical infrastructu
   - Advanced statistical analysis to optimize field inspections for +60 water utilities across USA.
 - [LeadCAST Predict [more]](/pages/leadcast_predict.md)
   - End-to-end machine learning solution to predict water service lines' materials across 45+ water utilities.
-- [LeadCAST Service Line Replacement [more]](/pages/leadcast_predict.md)
+- [LeadCAST Service Line Replacement [more]](/pages/leadcast_slr.md)
   - End-to-end machine learning solution to optimize lead service line replacement program.
 - [Water Main Failure [more]](/pages/water_main_failure.md)
   - End-to-end machine learning solution for pipe-break prediciton in water service lines network.
 - [Blockage Detection [more]](/pages/blockage_detection.md)
   - End-to-end machine learning solution for detecting water blockage in sewer systems.
-- [Water Pipe Replacement Optimization [more]](/pages/blockage_detection.md)
+- [Water Pipe Replacement Optimization [more]](/pages/pipe_replacement.md)
   - End-to-end machine learning solution for water pipe replacement.
 
 <!--
