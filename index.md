@@ -17,11 +17,112 @@
 
 **Core Capabilities:** Enterprise AI Strategy • MLOps & Production Systems • AI Governance (AIGP) • Technical Leadership
 
+---
+
+## Core Competencies
+
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 25px; margin: 40px 0;">
+
+  <!-- Card 1: AI Governance & Risk Management -->
+  <div style="border: 1px solid #ddd; border-left: 4px solid #4A90E2; border-radius: 8px; padding: 24px; background: #fff; box-shadow: 0 2px 4px rgba(0,0,0,0.08); transition: transform 0.3s ease, box-shadow 0.3s ease;">
+    <h3 style="margin-top: 0; color: #4A90E2; font-size: 18px; display: flex; align-items: center; gap: 10px;">
+      🛡️ AI Governance & Risk Management
+    </h3>
+    <ul style="font-size: 14px; line-height: 1.6; color: #333; margin: 15px 0; padding-left: 20px;">
+      <li>AIGP-certified governance frameworks</li>
+      <li>Enterprise controls & regulatory compliance</li>
+      <li>Traceability, auditability, validation gates</li>
+    </ul>
+    <p style="font-size: 13px; font-weight: 600; color: #4A90E2; margin: 15px 0 10px 0;">
+      📊 Serving 65+ regulated clients
+    </p>
+    <a href="#ai-governance" style="font-size: 13px; color: #4A90E2; text-decoration: none; border-bottom: 1px solid transparent; transition: border-bottom 0.2s;">
+      Learn more ↓
+    </a>
+  </div>
+
+  <!-- Card 2: Enterprise ML Platform & MLOps -->
+  <div style="border: 1px solid #ddd; border-left: 4px solid #E24A4A; border-radius: 8px; padding: 24px; background: #fff; box-shadow: 0 2px 4px rgba(0,0,0,0.08); transition: transform 0.3s ease, box-shadow 0.3s ease;">
+    <h3 style="margin-top: 0; color: #E24A4A; font-size: 18px; display: flex; align-items: center; gap: 10px;">
+      ⚙️ Enterprise ML Platform & MLOps
+    </h3>
+    <ul style="font-size: 14px; line-height: 1.6; color: #333; margin: 15px 0; padding-left: 20px;">
+      <li>GCP Vertex AI platform architecture</li>
+      <li>CI/CD pipelines (4-6 weeks → same-day deployment)</li>
+      <li>End-to-end ML development standards</li>
+    </ul>
+    <p style="font-size: 13px; font-weight: 600; color: #E24A4A; margin: 15px 0 10px 0;">
+      📊 $60M+ savings • Same-day deployment
+    </p>
+    <a href="#ml-platform" style="font-size: 13px; color: #E24A4A; text-decoration: none; border-bottom: 1px solid transparent; transition: border-bottom 0.2s;">
+      Learn more ↓
+    </a>
+  </div>
+
+  <!-- Card 3: Agentic AI & Technical Innovation -->
+  <div style="border: 1px solid #ddd; border-left: 4px solid #50C878; border-radius: 8px; padding: 24px; background: #fff; box-shadow: 0 2px 4px rgba(0,0,0,0.08); transition: transform 0.3s ease, box-shadow 0.3s ease;">
+    <h3 style="margin-top: 0; color: #50C878; font-size: 18px; display: flex; align-items: center; gap: 10px;">
+      🚀 Agentic AI & Technical Innovation
+    </h3>
+    <ul style="font-size: 14px; line-height: 1.6; color: #333; margin: 15px 0; padding-left: 20px;">
+      <li>Multi-agent systems using Google Agent Development Kit</li>
+      <li>SEAL 6 collaborative methodology</li>
+      <li>Novel validation frameworks (tri-agent dialectic)</li>
+    </ul>
+    <p style="font-size: 13px; font-weight: 600; color: #50C878; margin: 15px 0 10px 0;">
+      📊 Production multi-agent systems deployed
+    </p>
+    <a href="#agentic-ai" style="font-size: 13px; color: #50C878; text-decoration: none; border-bottom: 1px solid transparent; transition: border-bottom 0.2s;">
+      Learn more ↓
+    </a>
+  </div>
+
+  <!-- Card 4: Cross-Functional Technical Leadership -->
+  <div style="border: 1px solid #ddd; border-left: 4px solid #F39C12; border-radius: 8px; padding: 24px; background: #fff; box-shadow: 0 2px 4px rgba(0,0,0,0.08); transition: transform 0.3s ease, box-shadow 0.3s ease;">
+    <h3 style="margin-top: 0; color: #F39C12; font-size: 18px; display: flex; align-items: center; gap: 10px;">
+      👥 Cross-Functional Technical Leadership
+    </h3>
+    <ul style="font-size: 14px; line-height: 1.6; color: #333; margin: 15px 0; padding-left: 20px;">
+      <li>Leading teams of 4+ data scientists</li>
+      <li>Product-Engineering-MLOps orchestration</li>
+      <li>Research-to-production methodology</li>
+    </ul>
+    <p style="font-size: 13px; font-weight: 600; color: #F39C12; margin: 15px 0 10px 0;">
+      📊 Proven team growth & developer productivity
+    </p>
+    <a href="#leadership" style="font-size: 13px; color: #F39C12; text-decoration: none; border-bottom: 1px solid transparent; transition: border-bottom 0.2s;">
+      Learn more ↓
+    </a>
+  </div>
+
+</div>
+
+<style>
+  /* Hover effects for cards */
+  div[style*="border-left: 4px solid"]:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 4px 12px rgba(0,0,0,0.15) !important;
+  }
+
+  /* Link hover effects */
+  a[href^="#"]:hover {
+    border-bottom: 1px solid currentColor !important;
+  }
+
+  /* Smooth scroll behavior */
+  html {
+    scroll-behavior: smooth;
+  }
+</style>
+
+---
+
 - [Shervin's Portfolio](#shervins-portfolio)
-  - [🏭 DSaaS/Products](#-dsaasproducts)
-  - [🤝 Mentorships](#-mentorships)
+  - [AI Governance & Risk Management](#ai-governance)
+  - [Enterprise ML Platform & MLOps](#ml-platform)
+  - [Agentic AI & Technical Innovation](#agentic-ai)
+  - [Cross-Functional Technical Leadership](#leadership)
   - [📗 Selected Publications](#-selected-publications)
-<!-- - [💡 Blogposts/Talks](#-blogpoststalks) -->
 
 ---
 
