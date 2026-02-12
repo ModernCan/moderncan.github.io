@@ -29,10 +29,7 @@
       <li>Enterprise controls & regulatory compliance</li>
       <li>Traceability, auditability, validation gates</li>
     </ul>
-    <p style="font-size: 13px; font-weight: 600; color: #4A90E2; margin: 15px 0 10px 0;">
-      📊 Serving 65+ regulated clients
-    </p>
-    <a href="#ai-governance" style="font-size: 13px; color: #4A90E2; text-decoration: none; border-bottom: 1px solid transparent; transition: border-bottom 0.2s;">
+    <a href="#ai-governance" style="font-size: 13px; color: #4A90E2; text-decoration: none; border-bottom: 1px solid transparent; transition: border-bottom 0.2s; margin-top: 15px; display: inline-block;">
       Learn more ↓
     </a>
   </div>
@@ -47,10 +44,7 @@
       <li>CI/CD pipelines (4-6 weeks → same-day deployment)</li>
       <li>End-to-end ML development standards</li>
     </ul>
-    <p style="font-size: 13px; font-weight: 600; color: #E24A4A; margin: 15px 0 10px 0;">
-      📊 $60M+ savings • Same-day deployment
-    </p>
-    <a href="#ml-platform" style="font-size: 13px; color: #E24A4A; text-decoration: none; border-bottom: 1px solid transparent; transition: border-bottom 0.2s;">
+    <a href="#ml-platform" style="font-size: 13px; color: #E24A4A; text-decoration: none; border-bottom: 1px solid transparent; transition: border-bottom 0.2s; margin-top: 15px; display: inline-block;">
       Learn more ↓
     </a>
   </div>
@@ -65,10 +59,7 @@
       <li>SEAL 6 collaborative methodology</li>
       <li>Novel validation frameworks (tri-agent dialectic)</li>
     </ul>
-    <p style="font-size: 13px; font-weight: 600; color: #50C878; margin: 15px 0 10px 0;">
-      📊 Production multi-agent systems deployed
-    </p>
-    <a href="#agentic-ai" style="font-size: 13px; color: #50C878; text-decoration: none; border-bottom: 1px solid transparent; transition: border-bottom 0.2s;">
+    <a href="#agentic-ai" style="font-size: 13px; color: #50C878; text-decoration: none; border-bottom: 1px solid transparent; transition: border-bottom 0.2s; margin-top: 15px; display: inline-block;">
       Learn more ↓
     </a>
   </div>
@@ -83,10 +74,7 @@
       <li>Product-Engineering-MLOps orchestration</li>
       <li>Research-to-production methodology</li>
     </ul>
-    <p style="font-size: 13px; font-weight: 600; color: #F39C12; margin: 15px 0 10px 0;">
-      📊 Proven team growth & developer productivity
-    </p>
-    <a href="#leadership" style="font-size: 13px; color: #F39C12; text-decoration: none; border-bottom: 1px solid transparent; transition: border-bottom 0.2s;">
+    <a href="#leadership" style="font-size: 13px; color: #F39C12; text-decoration: none; border-bottom: 1px solid transparent; transition: border-bottom 0.2s; margin-top: 15px; display: inline-block;">
       Learn more ↓
     </a>
   </div>
@@ -125,15 +113,6 @@
     scroll-behavior: smooth;
   }
 </style>
-
----
-
-- [Shervin's Portfolio](#shervins-portfolio)
-  - [🛡️ AI Governance \& Risk Management](#️-ai-governance--risk-management)
-  - [⚙️ Enterprise ML Platform \& MLOps](#️-enterprise-ml-platform--mlops)
-  - [🚀 Agentic AI \& Technical Innovation](#-agentic-ai--technical-innovation)
-  - [👥 Cross-Functional Technical Leadership](#-cross-functional-technical-leadership)
-  - [📗 Selected Publications \& Thought Leadership](#-selected-publications--thought-leadership)
 
 ---
 
