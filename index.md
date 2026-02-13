@@ -22,7 +22,7 @@
   <!-- Card 1: Enterprise ML Platform & MLOps -->
   <div style="border: 1px solid #ddd; border-left: 4px solid #f1c5c6; border-radius: 8px; padding: 24px; background: #fff; box-shadow: 0 2px 4px rgba(0,0,0,0.08); transition: transform 0.3s ease, box-shadow 0.3s ease;">
     <h3 style="margin-top: 0; color: #d9999b; font-size: 18px; display: flex; align-items: center; gap: 10px;">
-      ⚙️ Enterprise ML Platform & MLOps
+      Enterprise ML Platform & MLOps
     </h3>
     <ul style="font-size: 14px; line-height: 1.6; color: #333; margin: 15px 0; padding-left: 20px;">
       <li>GCP Vertex AI platform architecture</li>
@@ -37,7 +37,7 @@
   <!-- Card 2: Cross-Functional Technical Leadership -->
   <div style="border: 1px solid #ddd; border-left: 4px solid #ffbd59; border-radius: 8px; padding: 24px; background: #fff; box-shadow: 0 2px 4px rgba(0,0,0,0.08); transition: transform 0.3s ease, box-shadow 0.3s ease;">
     <h3 style="margin-top: 0; color: #cc973d; font-size: 18px; display: flex; align-items: center; gap: 10px;">
-      👥 Cross-Functional Technical Leadership
+      Cross-Functional Technical Leadership
     </h3>
     <ul style="font-size: 14px; line-height: 1.6; color: #333; margin: 15px 0; padding-left: 20px;">
       <li>Leading teams of 4+ data scientists</li>
@@ -52,7 +52,7 @@
   <!-- Card 3: AI Governance & Risk Management -->
   <div style="border: 1px solid #ddd; border-left: 4px solid #bacee6; border-radius: 8px; padding: 24px; background: #fff; box-shadow: 0 2px 4px rgba(0,0,0,0.08); transition: transform 0.3s ease, box-shadow 0.3s ease;">
     <h3 style="margin-top: 0; color: #7fa5c4; font-size: 18px; display: flex; align-items: center; gap: 10px;">
-      🛡️ AI Governance & Risk Management
+      AI Governance & Risk Management
     </h3>
     <ul style="font-size: 14px; line-height: 1.6; color: #333; margin: 15px 0; padding-left: 20px;">
       <li>AIGP-certified governance frameworks</li>
@@ -67,7 +67,7 @@
   <!-- Card 4: Agentic AI & Technical Innovation -->
   <div style="border: 1px solid #ddd; border-left: 4px solid #c1e3ce; border-radius: 8px; padding: 24px; background: #fff; box-shadow: 0 2px 4px rgba(0,0,0,0.08); transition: transform 0.3s ease, box-shadow 0.3s ease;">
     <h3 style="margin-top: 0; color: #87bba0; font-size: 18px; display: flex; align-items: center; gap: 10px;">
-      🚀 Agentic AI & Technical Innovation
+      Agentic AI & Technical Innovation
     </h3>
     <ul style="font-size: 14px; line-height: 1.6; color: #333; margin: 15px 0; padding-left: 20px;">
       <li>Multi-agent systems using Google Agent Development Kit</li>
