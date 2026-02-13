@@ -11,7 +11,7 @@
   </div>
 
   <div style="flex: 1; min-width: 280px; text-align: center;">
-    <img src="/images/resume_first_page.png" alt="Resume First Page" style="max-width: 550px; width: 100%; height: auto;">
+    <img src="/images/resume_first_page.png" alt="Resume First Page" style="max-width: 400px; width: 100%; height: auto;">
   </div>
 </div>
 
