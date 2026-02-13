@@ -3,7 +3,7 @@
 <div style="display: flex; align-items: center; gap: 20px; margin: 15px 0; flex-wrap: wrap;">
   <div style="flex: 1; min-width: 280px;">
     <p style="font-size: 16px; line-height: 1.6; margin-bottom: 0;">
-      Principal AI leader operating at the intersection of <strong>AI governance, production excellence, and technical innovation</strong>—architecting trustworthy AI systems that scale reliably under enterprise risk constraints. Leading cross-functional teams to deliver production AI solutions for critical infrastructure clients.
+      Senior AI leader bridging technical expertise with business strategy to build <strong>trustworthy AI systems at scale</strong>. Leading and mentoring team of 4+ data scientists and AI engineers while orchestrating cross-functional initiatives across Product, Engineering, and MLOps—delivering governed production AI solutions across 65+ critical infrastructure clients.
     </p>
     <!-- <p style="font-size: 14.5px; color: #555; font-style: italic; line-height: 1.5;">
       Building scalable, governed AI systems that drive measurable impact
@@ -19,10 +19,25 @@
 
 <div class="competency-cards">
 
-  <!-- Card 1: Enterprise ML Platform & MLOps -->
+  <!-- Card 1: Strategic Leadership & Team Development -->
+  <div style="border: 1px solid #ddd; border-left: 4px solid #ffbd59; border-radius: 8px; padding: 24px; background: #fff; box-shadow: 0 2px 4px rgba(0,0,0,0.08); transition: transform 0.3s ease, box-shadow 0.3s ease;">
+    <h3 style="margin-top: 0; color: #cc973d; font-size: 18px; display: flex; align-items: center; gap: 10px;">
+      Strategic Leadership & Team Development
+    </h3>
+    <ul style="font-size: 14px; line-height: 1.6; color: #333; margin: 15px 0; padding-left: 20px;">
+      <li>Leading and mentoring team of 4+ data scientists and AI engineers</li>
+      <li>Cross-functional strategic planning and AI product roadmap</li>
+      <li>Building trustworthy AI systems at scale with enterprise governance</li>
+    </ul>
+    <a href="/pages/leadership" style="font-size: 13px; color: #cc973d; text-decoration: none; border-bottom: 1px solid transparent; transition: border-bottom 0.2s; margin-top: 15px; display: inline-block;">
+      Learn more →
+    </a>
+  </div>
+
+  <!-- Card 2: Production Excellence & MLOps -->
   <div style="border: 1px solid #ddd; border-left: 4px solid #f1c5c6; border-radius: 8px; padding: 24px; background: #fff; box-shadow: 0 2px 4px rgba(0,0,0,0.08); transition: transform 0.3s ease, box-shadow 0.3s ease;">
     <h3 style="margin-top: 0; color: #d9999b; font-size: 18px; display: flex; align-items: center; gap: 10px;">
-      Enterprise ML Platform & MLOps
+      Production Excellence & MLOps
     </h3>
     <ul style="font-size: 14px; line-height: 1.6; color: #333; margin: 15px 0; padding-left: 20px;">
       <li>GCP Vertex AI platform architecture</li>
@@ -30,21 +45,6 @@
       <li>End-to-end ML development standards</li>
     </ul>
     <a href="/pages/ml-platform" style="font-size: 13px; color: #d9999b; text-decoration: none; border-bottom: 1px solid transparent; transition: border-bottom 0.2s; margin-top: 15px; display: inline-block;">
-      Learn more →
-    </a>
-  </div>
-
-  <!-- Card 2: Cross-Functional Technical Leadership -->
-  <div style="border: 1px solid #ddd; border-left: 4px solid #ffbd59; border-radius: 8px; padding: 24px; background: #fff; box-shadow: 0 2px 4px rgba(0,0,0,0.08); transition: transform 0.3s ease, box-shadow 0.3s ease;">
-    <h3 style="margin-top: 0; color: #cc973d; font-size: 18px; display: flex; align-items: center; gap: 10px;">
-      Cross-Functional Technical Leadership
-    </h3>
-    <ul style="font-size: 14px; line-height: 1.6; color: #333; margin: 15px 0; padding-left: 20px;">
-      <li>Leading teams of 4+ data scientists</li>
-      <li>Product-Engineering-MLOps orchestration</li>
-      <li>Research-to-production methodology</li>
-    </ul>
-    <a href="/pages/leadership" style="font-size: 13px; color: #cc973d; text-decoration: none; border-bottom: 1px solid transparent; transition: border-bottom 0.2s; margin-top: 15px; display: inline-block;">
       Learn more →
     </a>
   </div>
@@ -64,10 +64,10 @@
     </a>
   </div>
 
-  <!-- Card 4: Agentic AI & Technical Innovation -->
+  <!-- Card 4: Technical Innovation -->
   <div style="border: 1px solid #ddd; border-left: 4px solid #c1e3ce; border-radius: 8px; padding: 24px; background: #fff; box-shadow: 0 2px 4px rgba(0,0,0,0.08); transition: transform 0.3s ease, box-shadow 0.3s ease;">
     <h3 style="margin-top: 0; color: #87bba0; font-size: 18px; display: flex; align-items: center; gap: 10px;">
-      Agentic AI & Technical Innovation
+      Technical Innovation
     </h3>
     <ul style="font-size: 14px; line-height: 1.6; color: #333; margin: 15px 0; padding-left: 20px;">
       <li>Multi-agent systems using Google Agent Development Kit</li>

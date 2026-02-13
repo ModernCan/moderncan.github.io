@@ -32,3 +32,6 @@ _site/
 .sass-cache/
 .jekyll-cache/
 .jekyll-metadata
+
+# Private PDFs (leadership resume)
+pdf/02_shervin_khazaeli_leadership.pdf
