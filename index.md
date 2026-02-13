@@ -29,7 +29,7 @@
       <li>CI/CD pipelines (4-6 weeks → same-day deployment)</li>
       <li>End-to-end ML development standards</li>
     </ul>
-    <a href="#ml-platform" style="font-size: 13px; color: #d9999b; text-decoration: none; border-bottom: 1px solid transparent; transition: border-bottom 0.2s; margin-top: 15px; display: inline-block;">
+    <a href="/pages/ml-platform" style="font-size: 13px; color: #d9999b; text-decoration: none; border-bottom: 1px solid transparent; transition: border-bottom 0.2s; margin-top: 15px; display: inline-block;">
       Learn more ↓
     </a>
   </div>
@@ -44,7 +44,7 @@
       <li>Product-Engineering-MLOps orchestration</li>
       <li>Research-to-production methodology</li>
     </ul>
-    <a href="#leadership" style="font-size: 13px; color: #cc973d; text-decoration: none; border-bottom: 1px solid transparent; transition: border-bottom 0.2s; margin-top: 15px; display: inline-block;">
+    <a href="/pages/leadership" style="font-size: 13px; color: #cc973d; text-decoration: none; border-bottom: 1px solid transparent; transition: border-bottom 0.2s; margin-top: 15px; display: inline-block;">
       Learn more ↓
     </a>
   </div>
@@ -59,7 +59,7 @@
       <li>Enterprise controls & regulatory compliance</li>
       <li>Traceability, auditability, validation gates</li>
     </ul>
-    <a href="#ai-governance" style="font-size: 13px; color: #7fa5c4; text-decoration: none; border-bottom: 1px solid transparent; transition: border-bottom 0.2s; margin-top: 15px; display: inline-block;">
+    <a href="/pages/ai-governance" style="font-size: 13px; color: #7fa5c4; text-decoration: none; border-bottom: 1px solid transparent; transition: border-bottom 0.2s; margin-top: 15px; display: inline-block;">
       Learn more ↓
     </a>
   </div>
@@ -74,7 +74,7 @@
       <li>SEAL 6 collaborative methodology</li>
       <li>Novel validation frameworks (tri-agent dialectic)</li>
     </ul>
-    <a href="#agentic-ai" style="font-size: 13px; color: #87bba0; text-decoration: none; border-bottom: 1px solid transparent; transition: border-bottom 0.2s; margin-top: 15px; display: inline-block;">
+    <a href="/pages/innovation" style="font-size: 13px; color: #87bba0; text-decoration: none; border-bottom: 1px solid transparent; transition: border-bottom 0.2s; margin-top: 15px; display: inline-block;">
       Learn more ↓
     </a>
   </div>
@@ -113,118 +113,6 @@
     scroll-behavior: smooth;
   }
 </style>
-
----
-
-<div id="ml-platform"></div>
-
-## Enterprise ML Platform & MLOps
-
-Architected and scaled enterprise ML platform serving 65+ critical infrastructure clients, driving $60M+ in operational cost savings through predictive asset failure modeling, anomaly detection, and infrastructure risk assessment. Led technical implementation of production ML systems on GCP Vertex AI, accelerating deployment velocity from 4-6 weeks to same-day releases.
-
-**Platform Architecture:**
-- **GCP Vertex AI Platform** - Built scalable ML infrastructure on Google Cloud Platform enabling enterprise-grade model deployment and monitoring
-- **CI/CD Pipeline Design** - Established end-to-end ML development standards with version control, automated validation, and deployment templates
-- **Deployment Velocity** - Transformed deployment process: **4-6 weeks → same-day releases** while maintaining model governance and quality
-- **MLOps Maturity** - Achieved Google MLOps maturity level with experimentation-operations symmetry and AI-assisted development practices
-
-**Impact & Proof Points:**
-- 💰 **$60M+ in operational cost savings** across client base
-- 📈 **65+ enterprise clients** (grown from initial pilot)
-- ⚡ **Same-day deployment capability** with maintained quality standards
-- 🔧 Improved developer productivity through standardized ML workflows
-
-**Production DSaaS Solutions:**
-
-- **[Inspection Optimizer](/pages/ml-platform/inspection_optimizer.md)** - Advanced statistical analysis to optimize field inspections for **60+ water utilities** across USA. Optimizes number and location of field verifications for Lead and Copper Rule Revisions (LCRR) compliance. *Deployed as freemium and paid versions.*
-
-- **[LeadCAST Predict](/pages/ml-platform/leadcast_predict.md)** - End-to-end machine learning solution to predict water service lines' materials across **45+ water utilities**. Production ML models for regulatory compliance with LCRR requirements.
-
-- **[LeadCAST Service Line Replacement](/pages/ml-platform/leadcast_slr.md)** - ML-driven optimization for lead service line replacement programs. Prioritizes replacement activities based on risk assessment and resource constraints.
-
-- **[Water Main Failure Prediction](/pages/ml-platform/water_main_failure.md)** - Predictive analytics for pipe-break forecasting in water distribution networks. Enables proactive maintenance and reduces infrastructure failures.
-
-- **[Blockage Detection](/pages/ml-platform/blockage_detection.md)** - ML solution for detecting blockages in sewer systems. Real-time monitoring and anomaly detection for wastewater infrastructure.
-
-- **[Water Pipe Replacement Optimization](/pages/ml-platform/pipe_replacement.md)** - Data-driven planning for water pipe replacement programs. Balances risk, budget, and operational constraints.
-
----
-
-<div id="leadership"></div>
-
-## Cross-Functional Technical Leadership
-
-Led technical team of 4+ data scientists and orchestrated cross-functional initiatives with Engineering, Product, and MLOps to transition ML solutions from research to enterprise production. Established methodology for research-to-production transition and built knowledge-sharing platforms that accelerate team capabilities.
-
-**Leadership Approach:**
-- **Team Development** - Leading and mentoring team of 4+ data scientists, fostering growth from junior to senior levels
-- **Cross-Functional Orchestration** - Partnering with Product, Engineering, and MLOps teams to align technical execution with strategic vision
-- **Research-to-Production Methodology** - Established repeatable processes for transitioning ML research into production systems
-- **Strategic Planning** - Drive product roadmap and technical architecture decisions for AI platform evolution
-
-**Impact & Proof Points:**
-- 👥 **Team growth and development** - 5+ direct mentees advanced in their careers
-- 🤝 **Product-Engineering-MLOps alignment** achieved through collaborative frameworks
-- 📈 **Developer productivity improvements** through standardization and AI-assisted development
-- 🎓 **Knowledge-sharing platforms** enabling continuous learning and capability building
-
-**Mentorship & Team Development:**
-
-- **[Noah A. Foilb, MSc](https://www.linkedin.com/in/noah-foilb/)** - Computer & Data Scientist <span style="color: grey;">[2024-]</span>
-
-- **[Milad Omrani, MSc](https://www.linkedin.com/in/miladomrani1987/)** - Senior Data Scientist <span style="color: grey;">[2023-]</span>
-
-- **[Adham El Fawal, MSc](https://www.linkedin.com/in/adhamelfawal/)** - Computer & Data Scientist <span style="color: grey;">[2022-2025]</span>
-
-- **[Michaela Palmer, MSc](https://www.linkedin.com/in/palmermichaela/)** - Data Scientist <span style="color: grey;">[2024-25]</span>
-
-- **[Mohammad Mahdavi, PhD](https://www.linkedin.com/in/mohammadmahdavi/)** - Geotechnical Engineer & Data Scientist <span style="color: grey;">[2024-25]</span>
-
----
-
-<div id="ai-governance"></div>
-
-## AI Governance & Risk Management
-
-Pioneered enterprise AI governance framework integrating traceability, validation gates, auditability, and incident response directly into the ML lifecycle. Established AIGP-certified approach to build governance controls from scratch for critical infrastructure applications.
-
-**Key Capabilities:**
-- **AIGP Framework Implementation** - Built enterprise-grade governance controls adapted from industry frameworks to support accountability, risk management, and competitive differentiation
-- **Enterprise Governance Controls** - Established foundation for regulated industry expansion through comprehensive traceability and auditability systems
-- **Validation Gates & Quality Assurance** - Integrated validation checkpoints throughout the ML development lifecycle ensuring model quality and compliance
-- **Regulatory Compliance** - Designed governance systems specifically for critical infrastructure and utilities sector requirements
-
-**Impact & Proof Points:**
-- 📊 Serving **65+ regulated clients** across critical infrastructure
-- 🎓 **AIGP Certified** (Artificial Intelligence Governance Professional) - [Credential](https://www.credly.com/org/international-association-of-privacy-professionals-iapp/badge/artificial-intelligence-governance-professional-aigp)
-- 🏆 Foundation for competitive differentiation and client trust
-- ⚖️ Established enterprise risk management protocols for AI systems at scale
-
----
-
-<div id="agentic-ai"></div>
-
-## Agentic AI & Technical Innovation
-
-Driving AI product innovation through production multi-agent systems using Google Agent Development Kit. Pioneered novel methodologies including competitive intelligence orchestration and tri-agent dialectic framework for ML feature validation, increasing developer confidence and automating edge case detection.
-
-**Innovation Initiatives:**
-- **Multi-Agent Systems (Google ADK)** - Production deployment of multi-agent orchestration for automated market analysis and competitive intelligence
-- **Tri-Agent Dialectic Framework** - Novel prosecutor-defender-adjudicator system for ML feature validation and data leakage prevention
-- **SEAL 6 Collaborative Methodology** - Created knowledge-sharing platform and collaborative framework to accelerate team capabilities
-- **AI-Assisted Development** - Integrated AI agents into development workflow, reducing review cycles and improving code quality
-
-**Impact & Proof Points:**
-- 🤖 **Production multi-agent systems deployed** and actively serving clients
-- 🔍 Novel validation approaches **reducing review cycles** and increasing confidence
-- 🎯 Automated **edge case detection** preventing data leakage and model errors
-- 📊 Shaping **product roadmap** for next-generation agentic AI applications
-
-**Featured Innovations:**
-- **Competitive Intelligence System** - Multi-agent orchestration for automated market monitoring and analysis
-- **ML Feature Validation Framework** - Tri-agent dialectic approach for rigorous feature engineering review
-- **Data Leakage Prevention** - Agent-based system for detecting potential data leakage in ML pipelines
-- **SEAL 6 Knowledge Platform** - Collaborative methodology platform for team learning and capability development
 
 ---
 
