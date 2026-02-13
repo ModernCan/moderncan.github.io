@@ -118,7 +118,7 @@
 
 <div id="ml-platform"></div>
 
-## ⚙️ Enterprise ML Platform & MLOps
+## Enterprise ML Platform & MLOps
 
 Architected and scaled enterprise ML platform serving 65+ critical infrastructure clients, driving $60M+ in operational cost savings through predictive asset failure modeling, anomaly detection, and infrastructure risk assessment. Led technical implementation of production ML systems on GCP Vertex AI, accelerating deployment velocity from 4-6 weeks to same-day releases.
 
@@ -152,7 +152,7 @@ Architected and scaled enterprise ML platform serving 65+ critical infrastructur
 
 <div id="leadership"></div>
 
-## 👥 Cross-Functional Technical Leadership
+## Cross-Functional Technical Leadership
 
 Led technical team of 4+ data scientists and orchestrated cross-functional initiatives with Engineering, Product, and MLOps to transition ML solutions from research to enterprise production. Established methodology for research-to-production transition and built knowledge-sharing platforms that accelerate team capabilities.
 
@@ -184,7 +184,7 @@ Led technical team of 4+ data scientists and orchestrated cross-functional initi
 
 <div id="ai-governance"></div>
 
-## 🛡️ AI Governance & Risk Management
+## AI Governance & Risk Management
 
 Pioneered enterprise AI governance framework integrating traceability, validation gates, auditability, and incident response directly into the ML lifecycle. Established AIGP-certified approach to build governance controls from scratch for critical infrastructure applications.
 
@@ -204,7 +204,7 @@ Pioneered enterprise AI governance framework integrating traceability, validatio
 
 <div id="agentic-ai"></div>
 
-## 🚀 Agentic AI & Technical Innovation
+## Agentic AI & Technical Innovation
 
 Driving AI product innovation through production multi-agent systems using Google Agent Development Kit. Pioneered novel methodologies including competitive intelligence orchestration and tri-agent dialectic framework for ML feature validation, increasing developer confidence and automating edge case detection.
 
