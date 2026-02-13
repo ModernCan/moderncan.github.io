@@ -1,8 +1,8 @@
 # [Shervin's Portfolio](https://moderncan.github.io)
 
-<div style="display: flex; align-items: center; gap: 40px; margin: 30px 0; flex-wrap: wrap;">
+<div style="display: flex; align-items: center; gap: 20px; margin: 15px 0; flex-wrap: wrap;">
   <div style="flex: 1; min-width: 280px;">
-    <p style="font-size: 16px; line-height: 1.6; margin-bottom: 20px;">
+    <p style="font-size: 16px; line-height: 1.6; margin-bottom: 0;">
       Principal AI leader operating at the intersection of <strong>AI governance, production excellence, and technical innovation</strong>—architecting trustworthy AI systems that scale reliably under enterprise risk constraints. Leading cross-functional teams to deliver production AI solutions for critical infrastructure clients.
     </p>
     <!-- <p style="font-size: 14.5px; color: #555; font-style: italic; line-height: 1.5;">
