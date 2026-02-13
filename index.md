@@ -20,8 +20,8 @@
 <div class="competency-cards">
 
   <!-- Card 1: Enterprise ML Platform & MLOps -->
-  <div style="border: 1px solid #ddd; border-left: 4px solid #E24A4A; border-radius: 8px; padding: 24px; background: #fff; box-shadow: 0 2px 4px rgba(0,0,0,0.08); transition: transform 0.3s ease, box-shadow 0.3s ease;">
-    <h3 style="margin-top: 0; color: #E24A4A; font-size: 18px; display: flex; align-items: center; gap: 10px;">
+  <div style="border: 1px solid #ddd; border-left: 4px solid #f1c5c6; border-radius: 8px; padding: 24px; background: #fff; box-shadow: 0 2px 4px rgba(0,0,0,0.08); transition: transform 0.3s ease, box-shadow 0.3s ease;">
+    <h3 style="margin-top: 0; color: #d9999b; font-size: 18px; display: flex; align-items: center; gap: 10px;">
       ⚙️ Enterprise ML Platform & MLOps
     </h3>
     <ul style="font-size: 14px; line-height: 1.6; color: #333; margin: 15px 0; padding-left: 20px;">
@@ -29,14 +29,14 @@
       <li>CI/CD pipelines (4-6 weeks → same-day deployment)</li>
       <li>End-to-end ML development standards</li>
     </ul>
-    <a href="#ml-platform" style="font-size: 13px; color: #E24A4A; text-decoration: none; border-bottom: 1px solid transparent; transition: border-bottom 0.2s; margin-top: 15px; display: inline-block;">
+    <a href="#ml-platform" style="font-size: 13px; color: #d9999b; text-decoration: none; border-bottom: 1px solid transparent; transition: border-bottom 0.2s; margin-top: 15px; display: inline-block;">
       Learn more ↓
     </a>
   </div>
 
   <!-- Card 2: Cross-Functional Technical Leadership -->
-  <div style="border: 1px solid #ddd; border-left: 4px solid #F39C12; border-radius: 8px; padding: 24px; background: #fff; box-shadow: 0 2px 4px rgba(0,0,0,0.08); transition: transform 0.3s ease, box-shadow 0.3s ease;">
-    <h3 style="margin-top: 0; color: #F39C12; font-size: 18px; display: flex; align-items: center; gap: 10px;">
+  <div style="border: 1px solid #ddd; border-left: 4px solid #ffbd59; border-radius: 8px; padding: 24px; background: #fff; box-shadow: 0 2px 4px rgba(0,0,0,0.08); transition: transform 0.3s ease, box-shadow 0.3s ease;">
+    <h3 style="margin-top: 0; color: #cc973d; font-size: 18px; display: flex; align-items: center; gap: 10px;">
       👥 Cross-Functional Technical Leadership
     </h3>
     <ul style="font-size: 14px; line-height: 1.6; color: #333; margin: 15px 0; padding-left: 20px;">
@@ -44,14 +44,14 @@
       <li>Product-Engineering-MLOps orchestration</li>
       <li>Research-to-production methodology</li>
     </ul>
-    <a href="#leadership" style="font-size: 13px; color: #F39C12; text-decoration: none; border-bottom: 1px solid transparent; transition: border-bottom 0.2s; margin-top: 15px; display: inline-block;">
+    <a href="#leadership" style="font-size: 13px; color: #cc973d; text-decoration: none; border-bottom: 1px solid transparent; transition: border-bottom 0.2s; margin-top: 15px; display: inline-block;">
       Learn more ↓
     </a>
   </div>
 
   <!-- Card 3: AI Governance & Risk Management -->
-  <div style="border: 1px solid #ddd; border-left: 4px solid #4A90E2; border-radius: 8px; padding: 24px; background: #fff; box-shadow: 0 2px 4px rgba(0,0,0,0.08); transition: transform 0.3s ease, box-shadow 0.3s ease;">
-    <h3 style="margin-top: 0; color: #4A90E2; font-size: 18px; display: flex; align-items: center; gap: 10px;">
+  <div style="border: 1px solid #ddd; border-left: 4px solid #bacee6; border-radius: 8px; padding: 24px; background: #fff; box-shadow: 0 2px 4px rgba(0,0,0,0.08); transition: transform 0.3s ease, box-shadow 0.3s ease;">
+    <h3 style="margin-top: 0; color: #7fa5c4; font-size: 18px; display: flex; align-items: center; gap: 10px;">
       🛡️ AI Governance & Risk Management
     </h3>
     <ul style="font-size: 14px; line-height: 1.6; color: #333; margin: 15px 0; padding-left: 20px;">
@@ -59,14 +59,14 @@
       <li>Enterprise controls & regulatory compliance</li>
       <li>Traceability, auditability, validation gates</li>
     </ul>
-    <a href="#ai-governance" style="font-size: 13px; color: #4A90E2; text-decoration: none; border-bottom: 1px solid transparent; transition: border-bottom 0.2s; margin-top: 15px; display: inline-block;">
+    <a href="#ai-governance" style="font-size: 13px; color: #7fa5c4; text-decoration: none; border-bottom: 1px solid transparent; transition: border-bottom 0.2s; margin-top: 15px; display: inline-block;">
       Learn more ↓
     </a>
   </div>
 
   <!-- Card 4: Agentic AI & Technical Innovation -->
-  <div style="border: 1px solid #ddd; border-left: 4px solid #50C878; border-radius: 8px; padding: 24px; background: #fff; box-shadow: 0 2px 4px rgba(0,0,0,0.08); transition: transform 0.3s ease, box-shadow 0.3s ease;">
-    <h3 style="margin-top: 0; color: #50C878; font-size: 18px; display: flex; align-items: center; gap: 10px;">
+  <div style="border: 1px solid #ddd; border-left: 4px solid #c1e3ce; border-radius: 8px; padding: 24px; background: #fff; box-shadow: 0 2px 4px rgba(0,0,0,0.08); transition: transform 0.3s ease, box-shadow 0.3s ease;">
+    <h3 style="margin-top: 0; color: #87bba0; font-size: 18px; display: flex; align-items: center; gap: 10px;">
       🚀 Agentic AI & Technical Innovation
     </h3>
     <ul style="font-size: 14px; line-height: 1.6; color: #333; margin: 15px 0; padding-left: 20px;">
@@ -74,7 +74,7 @@
       <li>SEAL 6 collaborative methodology</li>
       <li>Novel validation frameworks (tri-agent dialectic)</li>
     </ul>
-    <a href="#agentic-ai" style="font-size: 13px; color: #50C878; text-decoration: none; border-bottom: 1px solid transparent; transition: border-bottom 0.2s; margin-top: 15px; display: inline-block;">
+    <a href="#agentic-ai" style="font-size: 13px; color: #87bba0; text-decoration: none; border-bottom: 1px solid transparent; transition: border-bottom 0.2s; margin-top: 15px; display: inline-block;">
       Learn more ↓
     </a>
   </div>
