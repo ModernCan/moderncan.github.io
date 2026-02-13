@@ -30,7 +30,7 @@
       <li>End-to-end ML development standards</li>
     </ul>
     <a href="/pages/ml-platform" style="font-size: 13px; color: #d9999b; text-decoration: none; border-bottom: 1px solid transparent; transition: border-bottom 0.2s; margin-top: 15px; display: inline-block;">
-      Learn more ↓
+      Learn more →
     </a>
   </div>
 
@@ -45,7 +45,7 @@
       <li>Research-to-production methodology</li>
     </ul>
     <a href="/pages/leadership" style="font-size: 13px; color: #cc973d; text-decoration: none; border-bottom: 1px solid transparent; transition: border-bottom 0.2s; margin-top: 15px; display: inline-block;">
-      Learn more ↓
+      Learn more →
     </a>
   </div>
 
@@ -60,7 +60,7 @@
       <li>Traceability, auditability, validation gates</li>
     </ul>
     <a href="/pages/ai-governance" style="font-size: 13px; color: #7fa5c4; text-decoration: none; border-bottom: 1px solid transparent; transition: border-bottom 0.2s; margin-top: 15px; display: inline-block;">
-      Learn more ↓
+      Learn more →
     </a>
   </div>
 
@@ -75,7 +75,7 @@
       <li>Novel validation frameworks (tri-agent dialectic)</li>
     </ul>
     <a href="/pages/innovation" style="font-size: 13px; color: #87bba0; text-decoration: none; border-bottom: 1px solid transparent; transition: border-bottom 0.2s; margin-top: 15px; display: inline-block;">
-      Learn more ↓
+      Learn more →
     </a>
   </div>
 
