@@ -4,3 +4,7 @@
 *.log
 *.out
 *.gz
+# MacOS
+.DS_Store
+# Windows
+Thumbs.db
